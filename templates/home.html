@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="{{url_for('static', filename='myscript.js')}}"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    
+    <script>
+    $(document).ready(function(){ 
+        console.log("javascript up");
+    });
+    </script>
+</head>
+
+<body style="background:#587e76">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listening</title>
+    <br>
+    <div class="h- 100"></div>
+    <div class="h-100 d-flex align-items-center justify-content-center">
+        <div style="color:#fff;background:#c1502e; height: 300px; width: 230px; padding: 5px; border:2px; border-color: black; border-style:solid;">
+            <p><b>Listen to web traffic</b></p>
+            <form id = "listen_form" method="post">
+                <input id="productName" name="productName" type="text" placeholder="Search Product" required><br> <br>
+                <!-- <input id='tmp1' name="riskN" type="number" min="1" max="5" placeholder="tmp1" required><br>
+                <input id="tmp2" name="comments" type="text" placeholder="tmp2"><br> -->
+                <input type="submit" id = "productSearchSubmit" value="Submit">            </form>
+            <br>
+            <div id="ip_scan_spinner" class="spinner-grow text-primary" role="status" style="display: none">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <br>
+            <a href="/">home</a>
+            <a href="config">config</a>
+        </div>
+        <div id="ip_list" class="overflow-auto" style="display: block; color:#fff;background:#c1502e; height: 600px; width: 800px; padding: 5px; border:2px; border-color: black; border-style:solid;">
+            <p>ips found:</p>
+            <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col" style="background:#a96e5b">Product Name</th>
+                    <th scope="col" style="background:#a96e5b">URL</th>
+                    <th scope="col" style="background:#a96e5b">Solds</th>
+                    <th scope="col" style="background:#a96e5b">Seller Stars</th>
+
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- <tr>
+                    <th scope="row">192.196.20.1</th>
+                    <td>1</td>
+                    <td>testing ip</td>
+                  </tr> -->
+                  {% for row in products %}
+                  <tr>
+                    <th scope="row">{{row.0}}</th>
+                    <td><a href="{{row.1}}">Link</a></td>
+                    <td>{{row.2}}</td>
+                    <td>{{row.3}}</td>
+                </tr>
+                  {% endfor %}
+                </tbody>
+            </table>
+
+            <br>
+            <!-- <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col" style="background:#a96e5b">IP#</th>
+                  <th scope="col" style="background:#a96e5b">Risk Factor</th>
+                  <th scope="col" style="background:#a96e5b">Info</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">192.196.20.1</th>
+                  <td>1</td>
+                  <td>testing ip</td>
+                </tr>
+                {% macro ip_table(IPS) %}
+                {% for row in IPS %}
+                <tr>
+                  <th scope="row">{{row.0}}</th>
+                  <td>{{row.1}}</td>
+                  <td>{{row.2}}</td>
+                </tr>
+                {% endfor %}
+                {% endmacro %}
+              </tbody>
+          </table> -->
+        </div>
+    </div>
+</body>
+</html>

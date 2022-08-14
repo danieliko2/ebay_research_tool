@@ -1,0 +1,300 @@
+1660140847471	geckodriver	INFO	Listening on 127.0.0.1:53966
+1660140850559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofile7XlDvb"
+1660140850812	Marionette	INFO	Marionette enabled
+1660140850817	Marionette	INFO	Listening on port 53979
+WebDriver BiDi listening on ws://localhost:53967
+Read port: 53979
+1660140851027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofile7XlDvb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53967/devtools/browser/3f9df185-8f58-45dc-8291-26cc7fde8042
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://src.ebay-us.com/XBeJWLiRGbCXdMXt?8d5c79920f3fad0c=9C31AkQcv0su2gQyZwxj-4iI1fkVLU3n3TB1JeRk5O0nb7bnOsecBUKPck8-nQEcIK-LGGB3bxqu_WdPRRoPSSOj5lmwt_pI4ntqa_VzQrtWLz5uK2xvb4PJke8SsNH6RdkWPnjUVo368a-1t-BSWkvTETQD7aoG20S5DlFJiW4tSbrMrwmFGI8vJl5Db14iHyRuf1AJPWRCNmcQgcFbuxA&jb=3e392624687167753d5f6b6e646d75732e687b6d3d55696e666d757325303033382e6a7160773546697a67666f7a246a7b603544697065666d7a273230333031, line 151: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/XBeJWLiRGbCXdMXt?8d5c79920f3fad0c=9C31AkQcv0su2gQyZwxj-4iI1fkVLU3n3TB1JeRk5O0nb7bnOsecBUKPck8-nQEcIK-LGGB3bxqu_WdPRRoPSSOj5lmwt_pI4ntqa_VzQrtWLz5uK2xvb4PJke8SsNH6RdkWPnjUVo368a-1t-BSWkvTETQD7aoG20S5DlFJiW4tSbrMrwmFGI8vJl5Db14iHyRuf1AJPWRCNmcQgcFbuxA&jb=3e392624687167753d5f6b6e646d75732e687b6d3d55696e666d757325303033382e6a7160773546697a67666f7a246a7b603544697065666d7a273230333031, line 151: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660140899379	Marionette	INFO	Stopped listening on port 53979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660140903549	geckodriver	INFO	Listening on 127.0.0.1:54150
+1660140906621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileOWFNcf"
+1660140906832	Marionette	INFO	Marionette enabled
+1660140906835	Marionette	INFO	Listening on port 54162
+WebDriver BiDi listening on ws://localhost:54151
+Read port: 54162
+1660140906902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileOWFNcf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54151/devtools/browser/6f533eb4-6576-4693-94e9-8dd0aedcddc4
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/-JUoKnyYYICtkGzt?5d5d419aab6d347d=tvrpx2taZgn8EokZUAc0QkHxc-u78-h-SwsEZEAQ6wY5x3sRBiHqc-_EnJJSF7Lh8rv_zlM8mLIuo-sGJyuheKw0lmOwTL-NiyQK19X_Be15MmyckaZ6u15D7_ciYTg34_1_J2tH8v8ex1TH7tVoK68GnT2FS97Pm-Xdqm8ZFhdGuqnSmNdWNFdGxS6r1wWyjAvwqwYPLBkSYlAvcWU-vsM&jb=3e3926246a736f7d3d5f6b6e646d7571246a716d3d55696e666d757125303239382e6a7162753d4e697a67666f7a246871623f44697065666d7a27303033323b, line 260: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/-JUoKnyYYICtkGzt?5d5d419aab6d347d=tvrpx2taZgn8EokZUAc0QkHxc-u78-h-SwsEZEAQ6wY5x3sRBiHqc-_EnJJSF7Lh8rv_zlM8mLIuo-sGJyuheKw0lmOwTL-NiyQK19X_Be15MmyckaZ6u15D7_ciYTg34_1_J2tH8v8ex1TH7tVoK68GnT2FS97Pm-Xdqm8ZFhdGuqnSmNdWNFdGxS6r1wWyjAvwqwYPLBkSYlAvcWU-vsM&jb=3e3926246a736f7d3d5f6b6e646d7571246a716d3d55696e666d757125303239382e6a7162753d4e697a67666f7a246871623f44697065666d7a27303033323b, line 260: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660140925643	Marionette	INFO	Stopped listening on port 54162
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660141650993	geckodriver	INFO	Listening on 127.0.0.1:54822
+1660141654069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileyvwXyz"
+1660141654285	Marionette	INFO	Marionette enabled
+1660141654288	Marionette	INFO	Listening on port 54833
+WebDriver BiDi listening on ws://localhost:54823
+Read port: 54833
+1660141654355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileyvwXyz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54823/devtools/browser/8ac52f36-9a2c-4c0d-a90d-4814932ed3e1
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/2afgEhU5_6FQVd-f?6aad5302cc74ca24=DJJRAycAU3hgGHXu6LraVLUu2wBSlcXa4B_6DSK6N_z9LZKxRPWQKxI4TuvaTe1da-zsh1rX3iW5fFn86Fc55Czxft9POwcdWTHvTVWyHNLkVfN3mFraLEUQF9xQeysjQVQ13ySN3rQ0ODwuJS6zTqx2pdzSe43EjNcpFEfhwWYbWtBc1TU3IJt80rmSMOvJuKQ5CDjkezGwVwDHmG_Jxrw&jb=3e392424687167753d5f6b6e646d7f71266a736d3f576b6e666d757125303031382e687160773546697a67666f7a2e6873623d446b7267666d7a273030333033, line 399: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/2afgEhU5_6FQVd-f?6aad5302cc74ca24=DJJRAycAU3hgGHXu6LraVLUu2wBSlcXa4B_6DSK6N_z9LZKxRPWQKxI4TuvaTe1da-zsh1rX3iW5fFn86Fc55Czxft9POwcdWTHvTVWyHNLkVfN3mFraLEUQF9xQeysjQVQ13ySN3rQ0ODwuJS6zTqx2pdzSe43EjNcpFEfhwWYbWtBc1TU3IJt80rmSMOvJuKQ5CDjkezGwVwDHmG_Jxrw&jb=3e392424687167753d5f6b6e646d7f71266a736d3f576b6e666d757125303031382e687160773546697a67666f7a2e6873623d446b7267666d7a273030333033, line 399: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660141956536	Marionette	INFO	Stopped listening on port 54833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileclfdC7"
+1660141703394	Marionette	INFO	Marionette enabled
+1660141703397	Marionette	INFO	Listening on port 55004
+WebDriver BiDi listening on ws://localhost:54992
+Read port: 55004
+1660141703468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileclfdC7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54992/devtools/browser/aca65a27-8fa9-4f6e-b509-105025d70bb7
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660141708106	Marionette	INFO	Stopped listening on port 55004
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660141866209	geckodriver	INFO	Listening on 127.0.0.1:55182
+1660141869275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileFRhE2r"
+1660141869501	Marionette	INFO	Marionette enabled
+1660141869504	Marionette	INFO	Listening on port 55194
+WebDriver BiDi listening on ws://localhost:55183
+Read port: 55194
+1660141869575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileFRhE2r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55183/devtools/browser/631aefea-dcc2-4ab9-93c1-b0ad3dc9cffe
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/RTOFBiocz36MQ9sF?5167afc7132fefab=RLXvU4f_Z4E6uhvwLdXQF7SHWol35q-AH5JhRKvgZpSJG9CBHCiqaNUkTLdXoRjuVlDFOxVhFi08M123WFR41etLKRCl8ET7ehTT5k3e3CYz8N2mmDVwUbccxz12IJ-4wLxWO2s57Y7flIB_cnZj2ntNEPsjhE22DmQRsjVJMeLVbts3ul6jgGjOIDtMwEUy7Gu7_FqClDsF5-ecv0VEWmY&jb=3e39242668716d7d3d5f6b6e646f7571266871673d5f616e666d757327303033382e687360773f4e697a67666f78246873603f4e697a6d666d7a273232333031, line 674: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/RTOFBiocz36MQ9sF?5167afc7132fefab=RLXvU4f_Z4E6uhvwLdXQF7SHWol35q-AH5JhRKvgZpSJG9CBHCiqaNUkTLdXoRjuVlDFOxVhFi08M123WFR41etLKRCl8ET7ehTT5k3e3CYz8N2mmDVwUbccxz12IJ-4wLxWO2s57Y7flIB_cnZj2ntNEPsjhE22DmQRsjVJMeLVbts3ul6jgGjOIDtMwEUy7Gu7_FqClDsF5-ecv0VEWmY&jb=3e39242668716d7d3d5f6b6e646f7571266871673d5f616e666d757327303033382e687360773f4e697a67666f78246873603f4e697a6d666d7a273232333031, line 674: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660141877762	Marionette	INFO	Stopped listening on port 55194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660141903389	geckodriver	INFO	Listening on 127.0.0.1:55300
+1660141906458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilexHodxq"
+1660141906686	Marionette	INFO	Marionette enabled
+1660141906689	Marionette	INFO	Listening on port 55313
+WebDriver BiDi listening on ws://localhost:55301
+Read port: 55313
+1660141906881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilexHodxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55301/devtools/browser/d7c9a7b0-9231-4df6-9138-651ebb0e1f66
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/RsQJgsVJ8M45xp6c?7a9edad3ebc9f5d1=g4tPpBBurbRN3tAWFm728WHTK9-d5z6m4fk_NBfkni7ahvA2XdJfsSrh_YBPGBO1lUW-trwR6gB15PxmsCsg8LuOQNl3BdWKgLW_KroGZ8i20Xu-y6Oon2605a0235EVjgsHiboN7_j53Uzk7ojBbdOMo0zC-Eizi16wQPWRnNiVN8f-MHOOh4s1xXCQueustl-2EKMPdGQ5Xj8OkPoPmM0&jb=3e3924246a71677d3d5f6b6e64677571266a736f3f57696e666d757327323033382e68716277354e697a67666f70246873623d466b7265666d7a273232313031, line 730: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660141914347	Marionette	INFO	Stopped listening on port 55313
+1660146797822	geckodriver	INFO	Listening on 127.0.0.1:65517
+1660146800908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65518" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileRlYhRk"
+1660146801367	Marionette	INFO	Marionette enabled
+1660146801371	Marionette	INFO	Listening on port 65530
+WebDriver BiDi listening on ws://localhost:65518
+Read port: 65530
+1660146801589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileRlYhRk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65518/devtools/browser/6a12db2e-fd9f-4fb8-a9eb-991fd4d0b6cb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/zR0vMyipztVzMrpm?db95e6d7eacc48ab=4r8XlBgrvbP-Y9RbizI_jTlFIF_mM8b293qWox6Jt-LlUL05-J-ynEL7hizGKWpG6laksQWQg6lvupyEQm2-5uH7nm13Wgv0oQnAhkQAhXz5Qh0WWVtTOmUlNOQniUM1-0tfKJYCKa5uWw52jQ2ucTA7i83LJ6dVp8OG76T-vZhaD-h1qErVA0jPzl6H1h1mDQIImsLknduVwxFfDz9_1LE&jb=3e39242468716d753d5f6b6e646f77712e6a73673d57696c666d757325303031382e687160773f46697a67666f7826687b623d4e697265646d7a273230333033, line 73: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/zR0vMyipztVzMrpm?db95e6d7eacc48ab=4r8XlBgrvbP-Y9RbizI_jTlFIF_mM8b293qWox6Jt-LlUL05-J-ynEL7hizGKWpG6laksQWQg6lvupyEQm2-5uH7nm13Wgv0oQnAhkQAhXz5Qh0WWVtTOmUlNOQniUM1-0tfKJYCKa5uWw52jQ2ucTA7i83LJ6dVp8OG76T-vZhaD-h1qErVA0jPzl6H1h1mDQIImsLknduVwxFfDz9_1LE&jb=3e39242468716d753d5f6b6e646f77712e6a73673d57696c666d757325303031382e687160773f46697a67666f7826687b623d4e697265646d7a273230333033, line 73: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://reg.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://reg.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://reg.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://reg.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660146927009	Marionette	INFO	Stopped listening on port 65530
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileX2K4b9"
+1660146871831	Marionette	INFO	Marionette enabled
+1660146871834	Marionette	INFO	Listening on port 55674
+WebDriver BiDi listening on ws://localhost:55663
+Read port: 55674
+1660146872017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileX2K4b9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55663/devtools/browser/28d9d8a8-f200-4d25-838f-717d496daa38
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://src.ebay-us.com/uGs6EFZeNKOgoC6G?e93798a90d14590d=3OTeKmWpDA9xVNajZ6VEnxHvBveIv96myMhPBdUX_UbCc_9RsjDYcU-VKKS9aG2lQRY3j7Uek2E4BnuQAZktd3KaA1r3Cbj-iab4jjLRC03jLRaaGMr7SQCvYpzVkmcwVaJkIbjx_VsstdX4fDuCDjr9SHbHPWAiGKdaL0LsyMB_W_wEYaLCP3xnCI0ZLd9B3gzfGhc2ZlU0XrQoji3XHeE&jb=3e3924246a7b6f7d3d5f6b6e646d7573246a716f3f576b6c666d757125303233382e6871627d3d4e697a67666f7a246a71623f466b7267646d7a273030333231, line 932: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/uGs6EFZeNKOgoC6G?e93798a90d14590d=3OTeKmWpDA9xVNajZ6VEnxHvBveIv96myMhPBdUX_UbCc_9RsjDYcU-VKKS9aG2lQRY3j7Uek2E4BnuQAZktd3KaA1r3Cbj-iab4jjLRC03jLRaaGMr7SQCvYpzVkmcwVaJkIbjx_VsstdX4fDuCDjr9SHbHPWAiGKdaL0LsyMB_W_wEYaLCP3xnCI0ZLd9B3gzfGhc2ZlU0XrQoji3XHeE&jb=3e3924246a7b6f7d3d5f6b6e646d7573246a716f3f576b6c666d757125303233382e6871627d3d4e697a67666f7a246a71623f466b7267646d7a273030333231, line 932: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660146924934	Marionette	INFO	Stopped listening on port 55674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofileO1hq9a"
+1660146915002	Marionette	INFO	Marionette enabled
+1660146915005	Marionette	INFO	Listening on port 55411
+WebDriver BiDi listening on ws://localhost:55398
+Read port: 55411
+1660146915208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileO1hq9a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55398/devtools/browser/fdab865e-746f-47dc-96ff-6601ac1925b9
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/uKcCZJloRwU_IdJN?4f47d13c46ec0827=IFOWnhE949_le7kQwkndvWvmkgtq-lUJZuCIeLje1FHyd4RqJrRVajPFPctTOO84Hoz4XPCP_1tKV184Nq6wXNPtFDk9HWUlJHbR2t8g6Ydsqdowv7knOOD467-U4C4bGNvusUgEy2Oer7THyuIBKbRssbj1BuqJTHKpTSefAKaL9ocrb1k6jazPkA4PfHbxK-ArHlOVdqWCGVQ1Iwu6PhE&jb=3e3924246a736d753d5f6b6e646d777b26687b6f3d5f6b6e666d757325323231382e687162753f46697a67666f7a266273603546697a67666d7a273230313233, line 295: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660146925655	Marionette	INFO	Stopped listening on port 55411
+[Parent 19552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660147271761	geckodriver	INFO	Listening on 127.0.0.1:53897
+1660147274843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofiled1wYlX"
+1660147275069	Marionette	INFO	Marionette enabled
+1660147275072	Marionette	INFO	Listening on port 53912
+WebDriver BiDi listening on ws://localhost:53898
+Read port: 53912
+1660147275149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofiled1wYlX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53898/devtools/browser/d1338e5a-bc57-482b-bd9b-30ab55c7a4dd
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/ak7wUQsfGUcIPI17?069247e48b46aa12=o9MPUJwIAlodvDFn3zyrKce6K5YnLizYuR8WlMUDmfyJ7M96_SASyyk7kHCbuF5e4piA7y1HKAeEpTvkikzS_zTeF7sTWVQTpRk7rC79CWunR9ik8vVBUtKxngZydLTK7EOCWavlIrjlNesqL3jpHvAHVK948MMmECMJQ_06Wrwf4nrVRgdRE-G0PhxKe3XXtu8y2KoWF7Y7ImeIuliqWZc&jb=3e39242668716d753d5f6b6e646d7f712668736d3d576b6e666d75732d323033382e687360773f46697a67666f7a2e6873603d44697267666d7a273238313031, line 923: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/ak7wUQsfGUcIPI17?069247e48b46aa12=o9MPUJwIAlodvDFn3zyrKce6K5YnLizYuR8WlMUDmfyJ7M96_SASyyk7kHCbuF5e4piA7y1HKAeEpTvkikzS_zTeF7sTWVQTpRk7rC79CWunR9ik8vVBUtKxngZydLTK7EOCWavlIrjlNesqL3jpHvAHVK948MMmECMJQ_06Wrwf4nrVRgdRE-G0PhxKe3XXtu8y2KoWF7Y7ImeIuliqWZc&jb=3e39242668716d753d5f6b6e646d7f712668736d3d576b6e666d75732d323033382e687360773f46697a67666f7a2e6873603d44697267666d7a273238313031, line 923: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/1wdSgwy4xpXZGY50?2e58a9ffe79b36a3=CdubZl4RZENQue72Zr1wFKfNB42KPuqwSiTWJ92_l6qLyQ0kTKJcdbaZ799xB3Ua0D09FJ6UB9YeXvLE49sR36wvXNFnMmqLfq7BlyapYh6yUgpE0gWxXvw6BzljjhLPhqDAgdn5wVYsNWHntrwHa-BA2Q8EwhlkaWb56J1EjZpRRwRrV8kjWvJ5i1tcjgJeN8On4tFw_OmJjS6_0daGSOU&jb=3e39242668736d7d3d5f6b6e646f77712e6a73673d57696c666d757325303833382e687360753f4e697a67666f7826687b623d4e697265646d7a273230333831, line 552: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/1wdSgwy4xpXZGY50?2e58a9ffe79b36a3=CdubZl4RZENQue72Zr1wFKfNB42KPuqwSiTWJ92_l6qLyQ0kTKJcdbaZ799xB3Ua0D09FJ6UB9YeXvLE49sR36wvXNFnMmqLfq7BlyapYh6yUgpE0gWxXvw6BzljjhLPhqDAgdn5wVYsNWHntrwHa-BA2Q8EwhlkaWb56J1EjZpRRwRrV8kjWvJ5i1tcjgJeN8On4tFw_OmJjS6_0daGSOU&jb=3e39242668736d7d3d5f6b6e646f77712e6a73673d57696c666d757325303833382e687360753f4e697a67666f7826687b623d4e697265646d7a273230333831, line 552: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://src.ebay-us.com/f6f1ru-YDV7DPqZW?452b5f2b6247132b=ocFXag-OkwgfBmNeZgMkSF27tZVcU6N5sYoZSBWXfQj8kma7gZ_ROfZbi4IgxaMuB6EYx4B8X72M-DCXwWySsli7iEGFdL90FiECp5JX3pucEjqlgk6VwjCoDOlaWB2yer7LiH4vGd_233-3FTbOQXGaXRdUrnVvL1YlEAGcKkSY_E9Jmo6tlMyqLuEQkwBdWAzWPZIZs1SKSe7rR3nhN0g&jb=3e39242668716d7d3d5f6b6e646f757b2668736f35556b6c666d757125323233382e687360773f4e697a67666f78246273603d46617067646d7a273030313231, line 381: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/f6f1ru-YDV7DPqZW?452b5f2b6247132b=ocFXag-OkwgfBmNeZgMkSF27tZVcU6N5sYoZSBWXfQj8kma7gZ_ROfZbi4IgxaMuB6EYx4B8X72M-DCXwWySsli7iEGFdL90FiECp5JX3pucEjqlgk6VwjCoDOlaWB2yer7LiH4vGd_233-3FTbOQXGaXRdUrnVvL1YlEAGcKkSY_E9Jmo6tlMyqLuEQkwBdWAzWPZIZs1SKSe7rR3nhN0g&jb=3e39242668716d7d3d5f6b6e646f757b2668736f35556b6c666d757125323233382e687360773f4e697a67666f78246273603d46617067646d7a273030313231, line 381: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660147362978	Marionette	INFO	Stopped listening on port 53912
+[Parent 4332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+on port 54151
+WebDriver BiDi listening on ws://localhost:54136
+Read port: 54151
+1660147353117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilePQzKAF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54136/devtools/browser/f271fe4a-d543-43de-9763-9229b2652fc0
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/cp3G4TkYbB2QMplt?704d18305088e793=4XHQ8lqWowkZQHOUf4Y-ZuZIbE8jeC3LcooDD5Mfu_Oa0NHoRjL_nPvCS2zjHxpUdfRBMcBNUP2IfQ_wIo9eeiLllcZxEnCbw9-hHsl3wFVF_NLV-Xo_bwFDhH6jJZQa9-ApfSIFZq13zzc95454Z5HROr_SkEyjJnAP67-hAxNLT7gxwhjsCGQ4Mp-lCrH3e1TbxbjM5jFVzcvZmUzKggQ&jb=3e3924266a716f753d5f6b6e646f7573246a736f3f576966666d757327323231382e687362773d46697a67666f78246a71623d466b72656e6d7a273232313233, line 428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/cp3G4TkYbB2QMplt?704d18305088e793=4XHQ8lqWowkZQHOUf4Y-ZuZIbE8jeC3LcooDD5Mfu_Oa0NHoRjL_nPvCS2zjHxpUdfRBMcBNUP2IfQ_wIo9eeiLllcZxEnCbw9-hHsl3wFVF_NLV-Xo_bwFDhH6jJZQa9-ApfSIFZq13zzc95454Z5HROr_SkEyjJnAP67-hAxNLT7gxwhjsCGQ4Mp-lCrH3e1TbxbjM5jFVzcvZmUzKggQ&jb=3e3924266a716f753d5f6b6e646f7573246a736f3f576966666d757327323231382e687362773d46697a67666f78246a71623d466b72656e6d7a273232313233, line 428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660147360746	Marionette	INFO	Stopped listening on port 54151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660147364492	geckodriver	INFO	Listening on 127.0.0.1:54253
+1660147367546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilej0Qjpt"
+1660147367782	Marionette	INFO	Marionette enabled
+1660147367786	Marionette	INFO	Listening on port 54266
+WebDriver BiDi listening on ws://localhost:54254
+Read port: 54266
+1660147367975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilej0Qjpt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54254/devtools/browser/9a73e1ad-dc30-45f9-8305-b26898b5799d
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/Iyjb40vLiRrgtdS9?c9454b381fe5b9d6=bUfPsNzwNvq-Av_QjJMrnwVvCcRi2xu5bo6dQySkJv322BoxI77NrNL6Sk_g118rCBGMd25Ko2DLPdZPbMlzw0pFHtSKb9m8SQ8C0JWx8cBL1hgnPd1WUHpgQu6c0ot2rLRkzkq0b1GNXE9sW-2UMEOcbQ7x7IJbcV3tnxQDuf7kqJ6WCqMqNQzsieOpjyxZai1SedX2V8Y-7allIAgaJMo&jb=3e3924266a7367753d5f6b6e646775732668716f3d576b6e666d7573253a3233382e687362753546697a67666f70246a73603f46697267666d7a273230393231, line 103: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/Iyjb40vLiRrgtdS9?c9454b381fe5b9d6=bUfPsNzwNvq-Av_QjJMrnwVvCcRi2xu5bo6dQySkJv322BoxI77NrNL6Sk_g118rCBGMd25Ko2DLPdZPbMlzw0pFHtSKb9m8SQ8C0JWx8cBL1hgnPd1WUHpgQu6c0ot2rLRkzkq0b1GNXE9sW-2UMEOcbQ7x7IJbcV3tnxQDuf7kqJ6WCqMqNQzsieOpjyxZai1SedX2V8Y-7allIAgaJMo&jb=3e3924266a7367753d5f6b6e646775732668716f3d576b6e666d7573253a3233382e687362753546697a67666f70246a73603f46697267666d7a273230393231, line 103: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 830: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 830: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 830: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 830: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 830: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 830: TypeError: node.getAttribute is not a function
+1660158656834	Sync.ErrorHandler	ERROR	Sync encountered a login error
+910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileaaRDFQ"
+1660147862148	Marionette	INFO	Marionette enabled
+1660147862151	Marionette	INFO	Listening on port 55035
+WebDriver BiDi listening on ws://localhost:55021
+Read port: 55035
+1660147862345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofileaaRDFQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55021/devtools/browser/a4ec4c5f-93a0-4ec2-8771-ea7c2e052359
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/34EwyW4Aj9yFIVn0?8d52bf6aa294ad6d=kDUVrzpanT3x3qhCk-yWsyFXykkS9WuElwpQgO2R9PV162W52yMi44w-ciDWYJ2FyFvP9e5mz7AzdwGrJWd3zkTW5XN2do6FkrNGnxx82K2vovGJrSWpfhdiuaOj3_kkDx1FRmLL3NyiBZS5OjML4RaT-khRrsI_tiCGLrf18mH5rKtesIODWLbx1t5qhgQBKUfQPFaKmhGZ4Ly8iRQslWU&jb=3e392e2468736f773d5f6b6e646d75732668736d3f5f6b6e666d757327323033382e627160753d44697a67666f7a246a73603d446b7a67666d7a273232313031, line 630: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/34EwyW4Aj9yFIVn0?8d52bf6aa294ad6d=kDUVrzpanT3x3qhCk-yWsyFXykkS9WuElwpQgO2R9PV162W52yMi44w-ciDWYJ2FyFvP9e5mz7AzdwGrJWd3zkTW5XN2do6FkrNGnxx82K2vovGJrSWpfhdiuaOj3_kkDx1FRmLL3NyiBZS5OjML4RaT-khRrsI_tiCGLrf18mH5rKtesIODWLbx1t5qhgQBKUfQPFaKmhGZ4Ly8iRQslWU&jb=3e392e2468736f773d5f6b6e646d75732668736d3f5f6b6e666d757327323033382e627160753d44697a67666f7a246a73603d446b7a67666d7a273232313031, line 630: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660147893007	geckodriver	INFO	Listening on 127.0.0.1:55160
+1660147898772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilejHhRmU"
+1660147898992	Marionette	INFO	Marionette enabled
+1660147898995	Marionette	INFO	Listening on port 55174
+Read port: 55174
+WebDriver BiDi listening on ws://localhost:55161
+1660147899064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofilejHhRmU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55161/devtools/browser/b1842807-00e2-44b5-93b6-9fa9bc3b8623
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ir.ebaystatic.com/cr/v/c1/aW5ob3VzZWpzMTY0ODcxMTc3Njc3MQ==-1.0.0.min.js, line 1: WebGL context was lost.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660147904796	Marionette	INFO	Stopped listening on port 55174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660504490178	geckodriver	INFO	Listening on 127.0.0.1:49589
+1660504496152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofiletfnzQM"
+1660504496462	Marionette	INFO	Marionette enabled
+1660504496467	Marionette	INFO	Listening on port 49604
+WebDriver BiDi listening on ws://localhost:49590
+Read port: 49604
+1660504496593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonny\\AppData\\Local\\Temp\\rust_mozprofiletfnzQM\\search.json.mozlz4", (void 0)))
